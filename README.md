@@ -8,6 +8,7 @@ This project uses a mock backend to simulate API interactions for the frontend a
 
 - NodeJS
 - ExpressJS
+- JSON Server
 
 ## Getting Started
 
