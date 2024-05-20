@@ -18,8 +18,6 @@ This project uses a mock backend to simulate API interactions for the frontend a
 2. Install dependencies:
    ```sh
    cd learn-next-mock-backend
-
-   ```sh
    npm install
 
 3. Start the Server:
