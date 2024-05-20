@@ -2,7 +2,7 @@
 
 This project uses a mock backend to simulate API interactions for the frontend application. The Frontend is available at the following repository:
 
-[Frontend Repository](https://github.com/sm-hdurjoy/learn-nest-frontend)
+[Learn Nest Frontend Repository](https://github.com/sm-hdurjoy/learn-nest-frontend)
 
 ## Technologies Used
 
