@@ -28,4 +28,4 @@ This project uses a mock backend to simulate API interactions for the frontend a
    ```sh
    npm start
 
-4. The mock backend will be running on `http://localhost:8000`
+5. The mock backend will be running on `http://localhost:8000`
