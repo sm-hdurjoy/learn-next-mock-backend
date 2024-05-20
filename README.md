@@ -1,4 +1,4 @@
-# Learn Nest Mock Backent
+# Learn Nest Mock Backend
 
 This project uses a mock backend to simulate API interactions for the frontend application. The Frontend is available at the following repository:
 
@@ -15,13 +15,16 @@ This project uses a mock backend to simulate API interactions for the frontend a
    ```sh
    git clone https://github.com/sm-hdurjoy/learn-next-mock-backend.git
 
-2. Install dependencies:
+2. Navigate to the project directory:
    ```sh
    cd learn-next-mock-backend
+
+3. Install the dependencies:
+   ```sh
    npm install
 
 3. Start the Server:
    ```sh
-   git clone https://github.com/sm-hdurjoy/learn-next-mock-backend.git
+   npm start
 
 4. The mock backend will be running on `http://localhost:8000`
